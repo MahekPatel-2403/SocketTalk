@@ -1,10 +1,10 @@
-💬 Relay — Real-Time Chat Application
+## SocketTalk — Real-Time Chat Application
 
 A real-time web-based chat application built using Python, Flask, and Flask-SocketIO that enables multiple users to communicate instantly in private rooms.
 
 This project demonstrates the use of WebSockets for bidirectional communication, dynamic room management, and server-client event handling.
 
-🚀 Features
+## Features
 
 ✅ Real-time messaging with WebSockets
 ✅ Create or join chat rooms
@@ -14,7 +14,7 @@ This project demonstrates the use of WebSockets for bidirectional communication,
 ✅ Clean and minimal UI
 ✅ Session-based user handling
 
-🧠 What I Learned
+## What I Learned
 
 - This project helped me understand core backend and real-time communication concepts such as:
 
@@ -30,7 +30,7 @@ This project demonstrates the use of WebSockets for bidirectional communication,
 
 - Structuring a backend project
 
-🛠️ Tech Stack
+## Tech Stack
 
 - Backend
 
