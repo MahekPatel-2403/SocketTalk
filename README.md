@@ -48,6 +48,6 @@ This project demonstrates the use of WebSockets for bidirectional communication,
 
 - JavaScript
 
-Communication Protocol
+## Communication Protocol
 
-WebSockets
+- WebSockets
